@@ -1,0 +1,1 @@
+alert("EXPLOIT DETECTED LOL")
